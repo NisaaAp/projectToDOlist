@@ -1,0 +1,33 @@
+.container{
+    height: 1000vh;
+    
+}
+
+h1{
+    font-family:initial;
+    
+}
+h4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h5{
+    font-family:monospace;
+}
+p{
+    font-family:initial;
+}
+
+.back {
+    background: linear-gradient(to right bottom, rgba(0,0,0,0.08),rgba(245, 130, 110, 0.363)), url(../asset/Rainbow.png);
+    height: 300vh;
+    
+    
+    top: '-40%';
+    right: '-50%';
+    
+    
+    background-size: cover;
+   
+    
+}
+
